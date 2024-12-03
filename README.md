@@ -62,23 +62,23 @@
 
 ###
 
-<p align="left"><b>Visual recognition :</b> A hand recognize project that define the number made by the hand and the signs like : like.</p>
+<p align="left"><strong>Visual recognition :</strong> A hand recognize project that define the number made by the hand and the signs like : like.</p>
 
 ###
 
-<p align="left">NLP Project : It was a project that accepted a paragraph and can tell the user what is the topic of this paragraph (Text Classification).</p>
+<p align="left"><strong>NLP Project :</strong> It was a project that accepted a paragraph and can tell the user what is the topic of this paragraph (Text Classification).</p>
 
 ###
 
-<p align="left">IOT project : it was a smart garage for a mall that tell the user where is the available place for parking and if it don't have any available place the led will be off also it had a fire system if there is any fire occurred at the parking.</p>
+<p align="left"><strong>IOT project :</strong> it was a smart garage for a mall that tell the user where is the available place for parking and if it don't have any available place the led will be off also it had a fire system if there is any fire occurred at the parking.</p>
 
 ###
 
-<p align="left">Smart Game Project : We make a game that can learn by the reinforcement learning method that learn from the trial and the reward.</p>
+<p align="left"><strong>Smart Game Project :</strong> We make a game that can learn by the reinforcement learning method that learn from the trial and the reward.</p>
 
 ###
 
-<p align="left">Web Development project : An online shopping website with its front end and back end.</p>
+<p align="left"><strong>Web Development project :</strong> An online shopping website with its front end and back end.</p>
 
 ###
 
