@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">Comupter and Data Sciences | Alexandria<br>Artificial Intelligent | 06/2024<br>CGPA = 3.408<br><br>Institute Sainte Jeanne Antide | Alexandria<br>French School | 09/2020</h4>
+<h4 align="left"><b>Comupter and Data Sciences | Alexandria<br>Artificial Intelligent | 06/2024<b><br>CGPA = 3.408<br><br>Institute Sainte Jeanne Antide | Alexandria<br>French School | 09/2020</h4>
 
 ###
 
