@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left"><b>Comupter and Data Sciences | Alexandria<br>Artificial Intelligent | 06/2024</b><br>CGPA = 3.408<br><br>Institute Sainte Jeanne Antide | Alexandria<br>French School | 09/2020</h4>
+<h4 align="left"><strong>Comupter and Data Sciences | Alexandria<br>Artificial Intelligent | 06/2024</strong><br>CGPA = 3.408<br><br><strong>Institute Sainte Jeanne Antide | Alexandria</strong><br>French School | 09/2020</h4>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">ISchool Company | Cairo<br>Instructor Coding | 04/2024 - Present<br>I worked as an Artificial Intelligent , Games , Mobile Application, UI and UX instructor after finishing the course of each field.</p>
+<p align="left"><strong>ISchool Company | Cairo</strong><br><strong>Instructor Coding | 04/2024 - Present</strong>><br>I worked as an Artificial Intelligent , Games , Mobile Application, UI and UX instructor after finishing the course of each field.</p>
 
 ###
 
