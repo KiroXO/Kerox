@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left"<strong>>Remitly | Alexandria</p><br><strong>Customer Service Specialist | 04/2022 - 11/2022</strong><br>Worked as a French and English customer service that help people to follow the transaction they made.</p>
+<p align="left">Remitly | Alexandria</p><br><strong>Customer Service Specialist | 04/2022 - 11/2022</strong><br>Worked as a French and English customer service that help people to follow the transaction they made.</p>
 
 ###
 
