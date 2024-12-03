@@ -30,23 +30,23 @@
 
 ###
 
-<p align="left">Graduation Project | Alexandria<br>A Fitting Room Application Using Augmented Reality | 07/2023 - 06/2024<br>It was a Fitting Room application Using the Augmented Reality. It was for helping people in their online shopping to try clothes virtually and with an AI model it recommend for them their size. The implementation was by flutter Dart for the mobile application and Augmented Reality also for the AI model was implemented by python.</p>
+<p align="left"><strong>Graduation Project | Alexandria</strong><br><strong>A Fitting Room Application Using Augmented Reality | 07/2023 - 06/2024</strong><br>It was a Fitting Room application Using the Augmented Reality. It was for helping people in their online shopping to try clothes virtually and with an AI model it recommend for them their size. The implementation was by flutter Dart for the mobile application and Augmented Reality also for the AI model was implemented by python.</p>
 
 ###
 
-<p align="left">Energizer | Alexandria<br>Technical Support | 01/2023 - 01/2024<br>We help people to solve any problem occurred in their devices.</p>
+<p align="left"><strong>Energizer | Alexandria</strong><br><strong>Technical Support | 01/2023 - 01/2024</strong><br>We help people to solve any problem occurred in their devices.</p>
 
 ###
 
-<p align="left">My communications Company | Alexandria<br>Internship Student | 02/2023 - 06/2023<br>Artificial and Machine learning Internship at the end of this internship w made a big project a sample of chatbot that can recognize and understand the questions and the voice of the user. Also we used a lot of NLP to make the project speak and understand the questions</p>
+<p align="left"><strong>My communications Company | Alexandria</strong><br><strong>nternship Student | 02/2023 - 06/2023</strong><br>Artificial and Machine learning Internship at the end of this internship w made a big project a sample of chatbot that can recognize and understand the questions and the voice of the user. Also we used a lot of NLP to make the project speak and understand the questions</p>
 
 ###
 
-<p align="left">Remitly | Alexandria<br>Customer Service Specialist | 04/2022 - 11/2022<br>Worked as a French and English customer service that help people to follow the transaction they made.</p>
+<p align="left"<strong>>Remitly | Alexandria</p><br><strong>Customer Service Specialist | 04/2022 - 11/2022</strong><br>Worked as a French and English customer service that help people to follow the transaction they made.</p>
 
 ###
 
-<p align="left">Robotics Training | Alexandria<br>Internship Student | 06/2022 - 09/2022<br>At this internship we made a car robot that's walk only on the black line also when the car sees an obstacles using the ultrasonic sensor it's turn and change its direction.</p>
+<p align="left"><strong>Robotics Training | Alexandria</strong><br><strong>Internship Student | 06/2022 - 09/2022</strong><br>At this internship we made a car robot that's walk only on the black line also when the car sees an obstacles using the ultrasonic sensor it's turn and change its direction.</p>
 
 ###
 
