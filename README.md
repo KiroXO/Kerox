@@ -18,6 +18,7 @@ I’m an Artificial Intelligence and Machine Learning Specialist from Alexandria
 ### 📬 Contact:
 - Email: [carinetarek8@gmail.com](mailto:carinetarek8@gmail.com)
 - Phone: +201278805403
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/carine-tarek-bb8867275)
 
 
 
