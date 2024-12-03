@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left"><strong>ISchool Company | Cairo</strong><br><strong>Instructor Coding | 04/2024 - Present</strong>><br>I worked as an Artificial Intelligent , Games , Mobile Application, UI and UX instructor after finishing the course of each field.</p>
+<p align="left"><strong>ISchool Company | Cairo</strong><br><strong>Instructor Coding | 04/2024 - Present</strong><br>I worked as an Artificial Intelligent , Games , Mobile Application, UI and UX instructor after finishing the course of each field.</p>
 
 ###
 
