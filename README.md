@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">Visual recognition : A hand recognize project that define the number made by the hand and the signs like : like.</p>
+<p align="left"><b>Visual recognition :</b> A hand recognize project that define the number made by the hand and the signs like : like.</p>
 
 ###
 
